@@ -10,8 +10,10 @@ not claims of ownership of the underlying ideas.
 The package imports PyTorch, NumPy, SciPy, pandas, and Matplotlib; their own
 licenses apply. Dependency distributions are not bundled. The compact encoder
 implementation was extracted/refactored from the project implementation; the
-residual-block structure follows torchvision's standard BasicBlock. Before a
-public release, review upstream provenance and retain any applicable notices.
+residual-block structure follows torchvision's standard BasicBlock. The upstream
+torchvision BSD 3-Clause notice is retained in
+`licenses/torchvision-BSD-3-Clause.txt` for this encoder provenance. It does not
+license the entire repository or the trained weights under BSD.
 
 Frozen baseline scores correspond to these published methods as adapted in the
 paper; upstream weights and implementation files are not redistributed here:

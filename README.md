@@ -1,18 +1,33 @@
 # Local-reference neural screening of PD candidates
 
-Private code-release preparation for manuscript version 165, *A Local-Reference Neural
+Code and result-reproduction snapshot for manuscript version 165, *A Local-Reference Neural
 Network for Candidate Screening in Partial Discharge Monitoring*.
 
 This snapshot derives from the version-142 implementation. It retains the model
 and score-based reproduction code, with manifests and score files limited to the
 nominal PD pulse conditions used in the current manuscript. It is not yet a
 complete end-to-end reproduction release. See `DATA_ACCESS.md` for missing
-assets, licensing checks, and the planned data archive.
+assets, licensing scope, and the separate data archive.
 
-**Status: private author-review repository, not publicly released.** This is the final local-moment
+**Status: publicly accessible code and result-reproduction repository.** This is the final local-moment
 network, without a ridge/subspace adjustment. The code has no dependency on the
 research archive. The licensing decision for author-owned code and weights is
-pending author approval; see `RELEASE_STATUS.md`.
+pending; public visibility is not a blanket open-source license. See
+`RELEASE_STATUS.md` and `THIRD_PARTY_NOTICES.md`.
+
+## Prepared data on Zenodo
+
+The prepared training, validation, main-performance and design-analysis inputs
+are hosted separately at https://doi.org/10.5281/zenodo.24540220 (version 1.0).
+Download `pd_screening_data_v1.zip` and extract it beside this repository.
+The data are not duplicated in GitHub. Original background material remains
+CC0 1.0; the dataset authors' original contributions and documentation are
+CC BY 4.0 to the extent of their applicable rights, as specified in the data
+archive. These licenses do not extend to this repository's code or weights.
+
+```text
+python evaluate_dataset.py --data ../pd_screening_data_v1/main --device cpu --check-archived
+```
 
 ## What can be run
 
@@ -132,10 +147,10 @@ to reproduce the paper. The required `train.npz` contract is:
 The first 9216 candidates use simulated normal responses on measured backgrounds;
 the remaining 4608 use measured high-energy background segments. Both groups
 contain paired event-free/event-containing windows. `data/training_manifest.json`
-records the context order. The local audit retains a separate prepared-data
-companion; it is **not** part of this private code snapshot. Independent
-source-data regeneration and redistribution rights must be resolved before
-claiming unrestricted end-to-end training reproducibility.
+records the context order. The prepared source inputs and their validation split
+are supplied in the separate Zenodo data archive, not in this code repository.
+Independent raw-to-source regeneration scripts are not yet bundled; access to
+prepared inputs does not establish complete raw-to-results reproducibility.
 
 ```text
 python train.py --data path/to/train.npz --seed 611013 --device cuda --output outputs/train_611013
@@ -171,7 +186,7 @@ paper tables display percentages. Site/record IDs preserve pairing and prevent
 treating repeated windows, seeds, or calibration subsets as independent records.
 
 See `verification/` for checks actually run on this snapshot and `RELEASE_STATUS.md` for
-the remaining public-release gates. No paper, model, or result is uploaded by
+licensing and reproduction limits. No paper, model, or result is uploaded by
 any script in this package.
 
 The plot script redraws the verified experimental trends; it does not attempt
