@@ -1,0 +1,106 @@
+{
+  "manuscript_version": 165,
+  "visibility_required": "private",
+  "prepared_waveforms_included": false,
+  "filters": [
+    "nominal",
+    "nuisance_shift"
+  ],
+  "filter_counts": {
+    "backend_calibration.csv.gz": {
+      "original_rows": 196608,
+      "uploaded_rows": 98304
+    },
+    "backend_query.csv.gz": {
+      "original_rows": 24576,
+      "uploaded_rows": 12288
+    },
+    "design_candidate_only_calibration.csv.gz": {
+      "original_rows": 98304,
+      "uploaded_rows": 49152
+    },
+    "design_candidate_only_query.csv.gz": {
+      "original_rows": 12288,
+      "uploaded_rows": 6144
+    },
+    "design_global_calibration.csv.gz": {
+      "original_rows": 98304,
+      "uploaded_rows": 49152
+    },
+    "design_global_query.csv.gz": {
+      "original_rows": 12288,
+      "uploaded_rows": 6144
+    },
+    "design_mean_only_calibration.csv.gz": {
+      "original_rows": 98304,
+      "uploaded_rows": 49152
+    },
+    "design_mean_only_query.csv.gz": {
+      "original_rows": 12288,
+      "uploaded_rows": 6144
+    },
+    "design_proposed_calibration.csv.gz": {
+      "original_rows": 98304,
+      "uploaded_rows": 49152
+    },
+    "design_proposed_query.csv.gz": {
+      "original_rows": 12288,
+      "uploaded_rows": 6144
+    },
+    "main_cnn_bilstm.csv.gz": {
+      "original_rows": 110592,
+      "uploaded_rows": 55296
+    },
+    "main_mantis.csv.gz": {
+      "original_rows": 110592,
+      "uploaded_rows": 55296
+    },
+    "main_moderntcn.csv.gz": {
+      "original_rows": 110592,
+      "uploaded_rows": 55296
+    },
+    "main_pd_cnn.csv.gz": {
+      "original_rows": 110592,
+      "uploaded_rows": 55296
+    },
+    "main_proposed.csv.gz": {
+      "original_rows": 110592,
+      "uploaded_rows": 55296
+    },
+    "main_quant.csv.gz": {
+      "original_rows": 110592,
+      "uploaded_rows": 55296
+    },
+    "reference_auc.csv.gz": {
+      "original_rows": 1536,
+      "uploaded_rows": 768
+    },
+    "timing_results.csv.gz": {
+      "original_rows": 10752,
+      "uploaded_rows": 10752
+    }
+  },
+  "checks_run": [
+    {
+      "check": "unit_tests",
+      "exit_code": 0
+    },
+    {
+      "check": "filtered_score_replay",
+      "exit_code": 0
+    }
+  ],
+  "table_replay": {
+    "table_I": "36 rounded values matched",
+    "table_II": "12 rounded values matched",
+    "tables_III_IV": "18 rounded values matched",
+    "basis": "Recalculated from archived per-window scores; not new training"
+  },
+  "content_scan": {
+    "findings": [],
+    "scope": "plain-text release files; credential patterns, local paths and unrelated project name"
+  },
+  "full_training_repeated": false,
+  "baseline_inference_repeated": false,
+  "complete_end_to_end_reproduction": false
+}

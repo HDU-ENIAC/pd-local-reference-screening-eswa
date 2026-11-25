@@ -1,0 +1,650 @@
+[
+  {
+    "tag": "train_453_0",
+    "record": 453,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_453_1",
+    "record": 453,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_274_0",
+    "record": 274,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_274_1",
+    "record": 274,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_446_0",
+    "record": 446,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_446_1",
+    "record": 446,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_244_0",
+    "record": 244,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_244_1",
+    "record": 244,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_422_0",
+    "record": 422,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_422_1",
+    "record": 422,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_352_0",
+    "record": 352,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_352_1",
+    "record": 352,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_560_0",
+    "record": 560,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_560_1",
+    "record": 560,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_223_0",
+    "record": 223,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_223_1",
+    "record": 223,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_381_0",
+    "record": 381,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_381_1",
+    "record": 381,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_323_0",
+    "record": 323,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_323_1",
+    "record": 323,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_208_0",
+    "record": 208,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_208_1",
+    "record": 208,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_456_0",
+    "record": 456,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_456_1",
+    "record": 456,
+    "site": "52009",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_966_0",
+    "record": 966,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_966_1",
+    "record": 966,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1234_0",
+    "record": 1234,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1234_1",
+    "record": 1234,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_994_0",
+    "record": 994,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_994_1",
+    "record": 994,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1169_0",
+    "record": 1169,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1169_1",
+    "record": 1169,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1255_0",
+    "record": 1255,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1255_1",
+    "record": 1255,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1279_0",
+    "record": 1279,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1279_1",
+    "record": 1279,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1283_0",
+    "record": 1283,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1283_1",
+    "record": 1283,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1267_0",
+    "record": 1267,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1267_1",
+    "record": 1267,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1248_0",
+    "record": 1248,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1248_1",
+    "record": 1248,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1298_0",
+    "record": 1298,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1298_1",
+    "record": 1298,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_974_0",
+    "record": 974,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_974_1",
+    "record": 974,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1062_0",
+    "record": 1062,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1062_1",
+    "record": 1062,
+    "site": "52010",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1425_0",
+    "record": 1425,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1425_1",
+    "record": 1425,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1671_0",
+    "record": 1671,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1671_1",
+    "record": 1671,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1563_0",
+    "record": 1563,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1563_1",
+    "record": 1563,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1558_0",
+    "record": 1558,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1558_1",
+    "record": 1558,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1322_0",
+    "record": 1322,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1322_1",
+    "record": 1322,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1565_0",
+    "record": 1565,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1565_1",
+    "record": 1565,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1559_0",
+    "record": 1559,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1559_1",
+    "record": 1559,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1455_0",
+    "record": 1455,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1455_1",
+    "record": 1455,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1501_0",
+    "record": 1501,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1501_1",
+    "record": 1501,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1694_0",
+    "record": 1694,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1694_1",
+    "record": 1694,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1394_0",
+    "record": 1394,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1394_1",
+    "record": 1394,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1597_0",
+    "record": 1597,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "train_1597_1",
+    "record": 1597,
+    "site": "DP19",
+    "domain": "synthetic"
+  },
+  {
+    "tag": "measured_453",
+    "record": 453,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_274",
+    "record": 274,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_446",
+    "record": 446,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_244",
+    "record": 244,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_422",
+    "record": 422,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_352",
+    "record": 352,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_560",
+    "record": 560,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_223",
+    "record": 223,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_381",
+    "record": 381,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_323",
+    "record": 323,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_208",
+    "record": 208,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_456",
+    "record": 456,
+    "site": "52009",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_966",
+    "record": 966,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1234",
+    "record": 1234,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_994",
+    "record": 994,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1169",
+    "record": 1169,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1255",
+    "record": 1255,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1279",
+    "record": 1279,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1283",
+    "record": 1283,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1267",
+    "record": 1267,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1248",
+    "record": 1248,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1298",
+    "record": 1298,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_974",
+    "record": 974,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1062",
+    "record": 1062,
+    "site": "52010",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1425",
+    "record": 1425,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1671",
+    "record": 1671,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1563",
+    "record": 1563,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1558",
+    "record": 1558,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1322",
+    "record": 1322,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1565",
+    "record": 1565,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1559",
+    "record": 1559,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1455",
+    "record": 1455,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1501",
+    "record": 1501,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1694",
+    "record": 1694,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1394",
+    "record": 1394,
+    "site": "DP19",
+    "domain": "measured"
+  },
+  {
+    "tag": "measured_1597",
+    "record": 1597,
+    "site": "DP19",
+    "domain": "measured"
+  }
+]

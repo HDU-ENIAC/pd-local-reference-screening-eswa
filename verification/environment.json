@@ -1,0 +1,19 @@
+{
+  "reference_check": {
+    "python": "3.11.7",
+    "torch": "2.3.1+cpu",
+    "numpy": "1.26.4",
+    "pandas": "2.1.4",
+    "scipy": "1.11.4",
+    "device": "cpu"
+  },
+  "full_inference": {
+    "python": "3.11.0",
+    "torch": "2.3.1",
+    "numpy": "2.3.5",
+    "pandas": "2.2.2",
+    "device": "NVIDIA GeForce RTX 4070 Ti",
+    "cuda": true
+  },
+  "note": "Environment snapshots, not proof that other versions reproduce identical floats."
+}

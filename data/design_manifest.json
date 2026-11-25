@@ -1,0 +1,194 @@
+[
+  {
+    "tag": "nominal_347",
+    "record": 347,
+    "site": "52009",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_347",
+    "record": 347,
+    "site": "52009",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_524",
+    "record": 524,
+    "site": "52009",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_524",
+    "record": 524,
+    "site": "52009",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_501",
+    "record": 501,
+    "site": "52009",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_501",
+    "record": 501,
+    "site": "52009",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_399",
+    "record": 399,
+    "site": "52009",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_399",
+    "record": 399,
+    "site": "52009",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_764",
+    "record": 764,
+    "site": "52007",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_764",
+    "record": 764,
+    "site": "52007",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_785",
+    "record": 785,
+    "site": "52007",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_785",
+    "record": 785,
+    "site": "52007",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_669",
+    "record": 669,
+    "site": "52007",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_669",
+    "record": 669,
+    "site": "52007",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_812",
+    "record": 812,
+    "site": "52007",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_812",
+    "record": 812,
+    "site": "52007",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_1210",
+    "record": 1210,
+    "site": "52010",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_1210",
+    "record": 1210,
+    "site": "52010",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_1155",
+    "record": 1155,
+    "site": "52010",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_1155",
+    "record": 1155,
+    "site": "52010",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_1241",
+    "record": 1241,
+    "site": "52010",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_1241",
+    "record": 1241,
+    "site": "52010",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_1161",
+    "record": 1161,
+    "site": "52010",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_1161",
+    "record": 1161,
+    "site": "52010",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_1389",
+    "record": 1389,
+    "site": "DP19",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_1389",
+    "record": 1389,
+    "site": "DP19",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_1690",
+    "record": 1690,
+    "site": "DP19",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_1690",
+    "record": 1690,
+    "site": "DP19",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_1504",
+    "record": 1504,
+    "site": "DP19",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_1504",
+    "record": 1504,
+    "site": "DP19",
+    "condition": "nuisance_shift"
+  },
+  {
+    "tag": "nominal_1463",
+    "record": 1463,
+    "site": "DP19",
+    "condition": "nominal"
+  },
+  {
+    "tag": "nuisance_shift_1463",
+    "record": 1463,
+    "site": "DP19",
+    "condition": "nuisance_shift"
+  }
+]
